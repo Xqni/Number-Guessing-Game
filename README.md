@@ -11,7 +11,7 @@ Thank you for checking my project, if you find any mistakes please let me and I 
 ```
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
-You a number of chances to guess the correct number.
+You have a number of chances to guess the correct number.
 
 Please select the difficulty level:
 1. Easy (10 chances)
