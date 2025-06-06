@@ -3,7 +3,7 @@ num = random.randint(1, 20)
 
 message = """\nWelcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
-You a number of chances to guess the correct number."""
+You have a number of chances to guess the correct number."""
 
 level = """
 Please select the difficulty level:
