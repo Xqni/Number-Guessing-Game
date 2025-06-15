@@ -4,7 +4,7 @@
 A simple command line game in Python programming language. Beginner level project.
 
 ## Hello 👋
-Thank you for checking my project, if you find any mistakes please let me and I will try to imporve it.
+Thank you for checking my project, if you find any mistakes please let me know and I will try to imporve it.
 
 ## Sample gameplay 🎮
 
